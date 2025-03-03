@@ -1,63 +1,57 @@
-Tabuleiro de Dama - Next.js
+# ♟️ Tabuleiro de Dama - Next.js
 
-Este projeto consiste em uma aplicação desenvolvida com Next.js que exibe um tabuleiro de dama estilizado, responsivo e organizado. O foco está na interface visual, sem interatividade ou regras do jogo.
+Este projeto consiste em uma aplicação desenvolvida com **Next.js** que exibe um tabuleiro de dama estilizado, responsivo e organizado. O foco está na interface visual, sem interatividade ou regras do jogo.
 
-🚀 Tecnologias Utilizadas
+---
 
-Next.js - Framework React para desenvolvimento web
+## 🚀 Tecnologias Utilizadas
 
-CSS Modules / Styled Components - Para organização e estilização do tabuleiro e das peças
+🔹 **Next.js** - Framework React para desenvolvimento web  
+🔹 **CSS Modules / Styled Components** - Para organização e estilização do tabuleiro e das peças  
+🔹 **Flexbox / Grid** - Para garantir a responsividade  
 
-Flexbox / Grid - Para garantir a responsividade
+---
 
-📌 Funcionalidades
+## 📌 Funcionalidades
 
-Tabuleiro de 8x8 casas alternadas entre duas cores (ex.: preto e branco)
+✔️ **Tabuleiro 8x8** com casas alternadas entre duas cores (ex.: preto e branco)  
+✔️ **Peças pretas e brancas** posicionadas nas casas iniciais  
+✔️ **Layout responsivo**, mantendo proporções adequadas em diferentes tamanhos de tela  
+✔️ **Tabuleiro centralizado** na tela  
 
-Peças pretas e brancas posicionadas nas casas iniciais
+### 🔥 Diferenciais Implementados (Opcional)
 
-Layout responsivo, mantendo proporções adequadas em diferentes tamanhos de tela
+✨ **Efeito hover** ao passar o cursor sobre as casas e/ou peças  
+✨ **Design customizado** para as peças utilizando ícones ou elementos estilizados  
 
-Tabuleiro centralizado na tela
-
-🔥 Diferenciais Implementados (Opcional)
-
-Efeito hover ao passar o cursor sobre as casas e/ou peças
-
-Design customizado para as peças utilizando ícones ou elementos estilizados
+---
 
 
-🛠️ Como Rodar o Projeto
+## 🛠️ Como Rodar o Projeto
 
-Clone o repositório:
-
+📌 **1. Clone o repositório:**
+```sh
 git clone https://github.com/RenanOliveiraSilva/PRIMEIRO-APP.git
+```
 
-Acesse o diretório do projeto:
+📌 **2. Acesse o repositório:**
+```sh
+cd primeiro-app
+```
 
-cd PRIMEIRO-APP
+📌 **3. Instale as dependências:**
+```sh
+npm install
+```
 
-Instale as dependências:
+📌 **4. Inicie o Servidor:**
+```sh
+npm run dev
+```
 
-npm install  # ou yarn install
-
-Rode o projeto:
-
-npm run dev  # ou yarn dev
-
-Acesse no navegador:
-
+📌 **5. Acesse o Navegador:**
+```sh
 http://localhost:3000/Trabalho
+```
 
-📜 Considerações
-
-O projeto foi desenvolvido para fins didáticos, focando apenas na apresentação visual do tabuleiro.
-
-Melhorias futuras podem incluir interatividade e regras do jogo.
-
-📩 Contato
-
-Caso tenha alguma dúvida ou sugestão, fique à vontade para entrar em contato ou abrir uma issue no repositório.
-
-Feito com ❤️ por Renan Silva
-
+# Feito com ❤️ por Renan Silva
