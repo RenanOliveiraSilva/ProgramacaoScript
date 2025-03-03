@@ -1,0 +1,24 @@
+.teamOnePiece {
+    background-color: rgb(137, 9, 163);
+    min-width: 50px;
+    min-height: 50px;
+    border-radius: 50px;
+    outline: solid 2px #fff;
+}
+
+.teamOnePiece:hover {
+    background-color: rgb(94, 5, 112);
+}
+
+.teamTwoPiece {
+    background-color: rgb(216, 143, 7);
+    min-width: 50px;
+    min-height: 50px;
+    border-radius: 50px;
+    outline: solid 2px #fff;
+}
+
+
+.teamTwoPiece:hover {
+    background-color: rgb(158, 105, 7);
+}
